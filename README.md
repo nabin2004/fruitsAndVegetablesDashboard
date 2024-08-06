@@ -1,5 +1,5 @@
 # fruitsAndVegetablesDashboard
-
+[link to doc](https://docs.google.com/document/d/1ZmV20-Wteq6mWXgK0-JIwFp7tHsoIrxv4m5ul_xk04A/edit?usp=sharing)
 ## Project Overview
 
 The **fruitsAndVegetablesDashboard** project is a comprehensive data science initiative aimed at creating a full-stack solution to monitor and analyze the Kalimati Vegetable Market. This dashboard will provide real-time updates and insights into various fruits and vegetables, helping users make informed decisions based on data.
