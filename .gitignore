@@ -1,2 +1,3 @@
-# Ingnore the virtual environment of python
-meroenv\
+# Ingnore the virtual environment of python for windows and linux
+meroenv\  
+meroenv/
